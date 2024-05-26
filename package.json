@@ -1,20 +1,23 @@
 {
   "name": "leksysutility",
-  "version": "1.0.0", 
-  "description": "by leksysutility", 
+  "version": "1.0.1",
+  "description": "by leksysutility",
   "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Oleksiy04/leksysutility.git" 
+    "url": "https://github.com/Oleksiy04/leksysutility.git"
   },
-  "keywords": [ 
-    "", 
+  "keywords": [
+    "",
     "",
     ""
   ],
-  "author": "", 
-  "license": "MIT"
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "leksysdata": "^1.0.0"
+  }
 }
